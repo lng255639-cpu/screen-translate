@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.zip
+screen_translate_settings.json
+selftest.txt

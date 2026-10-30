@@ -1,0 +1,6 @@
+pillow
+requests
+numpy
+rapidocr
+onnxruntime
+anthropic  # 只有用 Claude 翻譯引擎才需要
