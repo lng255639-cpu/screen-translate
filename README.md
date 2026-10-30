@@ -13,7 +13,7 @@
 
 ## 直接使用（免安裝 Python）
 
-1. 到 [Releases](../../releases) 下載 `螢幕翻譯.zip`
+1. 到 [Releases](../../releases) 下載 `screen-translate-win64.zip`
 2. 解壓縮，執行資料夾裡的 `螢幕翻譯.exe`（整個資料夾要一起留著）
 3. 第一次執行若出現「Windows 已保護您的電腦」，按「其他資訊」→「仍要執行」
 
